@@ -1,0 +1,5 @@
+C:\Users\rosalk2\Documents\Cenfotec\C-Sharp-Statements\Statements\Program\bin\Debug\Program.exe.config
+C:\Users\rosalk2\Documents\Cenfotec\C-Sharp-Statements\Statements\Program\bin\Debug\Program.exe
+C:\Users\rosalk2\Documents\Cenfotec\C-Sharp-Statements\Statements\Program\bin\Debug\Program.pdb
+C:\Users\rosalk2\Documents\Cenfotec\C-Sharp-Statements\Statements\Program\obj\Debug\Program.exe
+C:\Users\rosalk2\Documents\Cenfotec\C-Sharp-Statements\Statements\Program\obj\Debug\Program.pdb
