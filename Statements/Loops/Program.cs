@@ -20,18 +20,18 @@ namespace Loops
                 Console.WriteLine("El valor de i es " + i);
             }
 
-            int u = value;
-            while (u > 0)
-            {
-                Console.WriteLine("El valor de u es " + u);
-                u--;
-            }
+            //int u = value;
+            //while (u > 0)
+            //{
+            //    Console.WriteLine("El valor de u es " + u);
+            //    u--;
+            //}
 
-            bool active = true;
-            while (active)
-            {
-                Console.WriteLine("El estado es "+ active);
-            }
+            //bool active = true;
+            //while (active)
+            //{
+            //    Console.WriteLine("El estado es "+ active);
+            //}
 
             Console.WriteLine(value);
             Console.ReadKey();

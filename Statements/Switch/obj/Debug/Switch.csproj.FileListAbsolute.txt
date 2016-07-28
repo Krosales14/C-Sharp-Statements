@@ -3,3 +3,4 @@ C:\Users\rosalk2\Documents\Cenfotec\C-Sharp-Statements\Statements\Switch\bin\Deb
 C:\Users\rosalk2\Documents\Cenfotec\C-Sharp-Statements\Statements\Switch\bin\Debug\Switch.pdb
 C:\Users\rosalk2\Documents\Cenfotec\C-Sharp-Statements\Statements\Switch\obj\Debug\Switch.exe
 C:\Users\rosalk2\Documents\Cenfotec\C-Sharp-Statements\Statements\Switch\obj\Debug\Switch.pdb
+C:\Users\rosalk2\Documents\Cenfotec\C-Sharp-Statements\Statements\Switch\obj\Debug\Switch.csprojResolveAssemblyReference.cache
